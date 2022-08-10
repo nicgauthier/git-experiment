@@ -2,6 +2,8 @@
 
 fix bug 
 
+bug bug
+
 fix another bug
 
 this is the first line
